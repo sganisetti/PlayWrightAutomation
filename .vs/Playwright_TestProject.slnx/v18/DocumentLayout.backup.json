@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7455B472-960A-4EF0-81B2-BE2DF821EDE0}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7455B472-960A-4EF0-81B2-BE2DF821EDE0}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7455B472-960A-4EF0-81B2-BE2DF821EDE0}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\playwright_testproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7455B472-960A-4EF0-81B2-BE2DF821EDE0}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\playwright_testproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\helpers\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\helpers\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|c:\\users\\sairamganisetti\\source\\repos\\playwright_testproject\\playwright_testproject\\playwrightwithnunit\\logintoormwithplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993596A4-DBB5-A557-1418-00573234887E}|Playwright_TestProject\\Playwright_TestProject.csproj|solutionrelative:playwright_testproject\\playwrightwithnunit\\logintoormwithplaywright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Helpers\\BasePage.cs",
+              "RelativeDocumentMoniker": "Playwright_TestProject\\Helpers\\BasePage.cs",
+              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Helpers\\BasePage.cs",
+              "RelativeToolTip": "Playwright_TestProject\\Helpers\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:44:52.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Playwright_TestProject",
-              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Playwright_TestProject.csproj",
-              "RelativeDocumentMoniker": "Playwright_TestProject\\Playwright_TestProject.csproj",
-              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Playwright_TestProject.csproj",
-              "RelativeToolTip": "Playwright_TestProject\\Playwright_TestProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-10T05:39:39.353Z",
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Playwright_TestProject\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Playwright_TestProject\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:30:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginToORMWithPlayWright.cs",
+              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\PlayWrightWithNUnit\\LoginToORMWithPlayWright.cs",
+              "RelativeDocumentMoniker": "Playwright_TestProject\\PlayWrightWithNUnit\\LoginToORMWithPlayWright.cs",
+              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\PlayWrightWithNUnit\\LoginToORMWithPlayWright.cs",
+              "RelativeToolTip": "Playwright_TestProject\\PlayWrightWithNUnit\\LoginToORMWithPlayWright.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:11:44.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Playwright_TestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\UnitTest1.cs",
-              "RelativeToolTip": "Playwright_TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Playwright_TestProject\\Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Playwright_TestProject\\Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T05:11:59.801Z",
               "EditorCaption": ""
