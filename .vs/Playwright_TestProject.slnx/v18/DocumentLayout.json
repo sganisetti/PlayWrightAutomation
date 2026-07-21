@@ -42,8 +42,7 @@
               "RelativeToolTip": "Playwright_TestProject\\Helpers\\BasePage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T10:44:52.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T10:44:52.772Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Playwright_TestProject\\Pages\\LoginPage.cs",
               "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Pages\\LoginPage.cs",
               "RelativeToolTip": "Playwright_TestProject\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T10:30:31.836Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Playwright_TestProject\\PlayWrightWithNUnit\\LoginToORMWithPlayWright.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T09:11:44.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-10T09:11:44.353Z"
             },
             {
               "$type": "Document",
@@ -79,7 +77,7 @@
               "RelativeDocumentMoniker": "Playwright_TestProject\\Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\SairamGanisetti\\source\\repos\\Playwright_TestProject\\Playwright_TestProject\\Tests\\UnitTest1.cs",
               "RelativeToolTip": "Playwright_TestProject\\Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAiwBcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC8AAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-10T05:11:59.801Z",
               "EditorCaption": ""
