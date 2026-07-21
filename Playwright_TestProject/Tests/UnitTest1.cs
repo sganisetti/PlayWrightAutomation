@@ -1,5 +1,7 @@
 ﻿using Microsoft.Playwright;
 using Playwright_TestProject.Pages;
+using System.Runtime.InteropServices;
+using System.Text.Unicode;
 
 namespace Playwright_TestProject.Tests
 {
@@ -37,6 +39,29 @@ namespace Playwright_TestProject.Tests
             LoginPage login = new LoginPage(page);
            await login.Login("Admin", "admin123");
         }
+
+
+        [Test]
+
+        public async Task LoginTestWithListeners()
+        {
+            var request = page.WaitForRequestAsync(x => x.Url.Contains("login") && x.Method == "GET");
+            var responseTask = page.WaitForResponseAsync(x => x.Url.Contains("/dashboard/index"));
+            LoginPage login = new LoginPage(page);
+            await login.Login("Admin", "admin123");
+            var response = await responseTask;
+            Assert.That(response.Status, Is.EqualTo(200));
+            Assert.That(response.Ok, Is .True);
+            var contentType = await response.HeaderValuesAsync("content-type");
+            Assert.That(contentType, Does.Contain("text/html; charset=UTF-8"));
+
+
+
+
+
+
+        }
+
 
         [Test]
         public async Task Test1()
